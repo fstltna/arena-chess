@@ -1,0 +1,19 @@
+[LastMove "0"]
+[Event "Computer chess game"]
+[Site "MUNDOSANGRE"]
+[Date "2023.04.11"]
+[Round "?"]
+[White "marisag"]
+[Black "SOS 5.1 for Arena"]
+[Result "*"]
+[BlackElo "2000"]
+[Time "01:40:24"]
+[WhiteElo "2400"]
+[TimeControl "300"]
+[Termination "unterminated"]
+[PlyCount "0"]
+[WhiteType "human"]
+[BlackType "program"]
+
+ *
+
